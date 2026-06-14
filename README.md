@@ -138,7 +138,8 @@ apple-stock-analysis-dashboard
 
 ### SAI VAMSHI MIRYALKAR
 
-🔗 GitHub: https://github.com/vijaymotam551-boop
+ 🔗 GitHub Repository:
+https://github.com/svm-knocks/apple-stock-analysis-dashboard
 
 ---
 
