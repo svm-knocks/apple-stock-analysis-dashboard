@@ -136,7 +136,7 @@ apple-stock-analysis-dashboard
 
 ## 👨‍💻 Author
 
-### Vijay Motam
+### SAI VAMSHI MIRYALKAR
 
 🔗 GitHub: https://github.com/vijaymotam551-boop
 
